@@ -1,4 +1,5 @@
 @font-face {
-  font-family: 'beautifully-delicious-script';
-  src: url(./beautifully-delicious-script.woff2) format('woff2');
+  font-family: 'montserrat-regular';
+  src: url(./montserrat-regular.woff) format('woff'),
+       url(./montserrat-regular.woff2) format('woff2');
 }
